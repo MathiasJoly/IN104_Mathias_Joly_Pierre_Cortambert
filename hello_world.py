@@ -1,1 +1,2 @@
-return 'test'
+def fonction () :
+  print('test');
