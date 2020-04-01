@@ -1,2 +1,2 @@
 def fonction () :
-  print('test');
+  print('test')
