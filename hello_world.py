@@ -1,2 +1,0 @@
-def fonction () :
-  print('test');
